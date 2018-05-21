@@ -7,3 +7,7 @@
 * 日記
 
 として作成したものです。
+
+== 日々勉強したこと一覧
+
+* https://github.com/yoshikit1996/til/tree/master/DuckTypingAndInterface[ダックタイピングとインターフェースによる多態性の違い]
