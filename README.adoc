@@ -1,7 +1,7 @@
 = 日々勉強したこと、TIL(Today I Learned)
 
 == はじめに
-このドキュメントは、私(yoshikit1996)の
+このドキュメントは、私の
 
 * 勉強ための備忘録
 * 日記
@@ -10,5 +10,6 @@
 
 == 日々勉強したこと一覧
 
+* https://yoshikit1996.hatenablog.com/[はてなブログ]
 * https://github.com/yoshikit1996/til/tree/master/DuckTypingAndInterface[ダックタイピングとインターフェースによる多態性の違い]
 * https://github.com/yoshikit1996/til/tree/master/CohesionAndCoupling[凝集度・結合度の直感的説明]
